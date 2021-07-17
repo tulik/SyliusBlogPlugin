@@ -1,5 +1,5 @@
 {
-    "name": "odiseoteam/sylius-blog-plugin",
+    "name": "tulik/sylius-blog-plugin",
     "type": "sylius-plugin",
     "keywords": [
         "sylius",
@@ -9,7 +9,7 @@
     "description": "This plugin add blog capabilities to your Sylius project",
     "license": "MIT",
     "require": {
-        "php": "^7.3 || ^8.0",
+        "php": "^7.4 || ^8.0",
 
         "sylius/sylius": "~1.8.0 || ~1.9.0",
         "odiseoteam/blog-bundle": "^1.1"
